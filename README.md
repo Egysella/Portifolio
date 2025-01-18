@@ -1,4 +1,4 @@
-# Portfólio de Egysella 
+# Portifólio de Egysella 
 Um portfólio simples e profissional desenvolvido com HTML e CSS para mostrar meus projetos e habilidades.
 <br>
 ## Sobre
